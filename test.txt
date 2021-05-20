@@ -1,3 +1,13 @@
 This is the first step in the branching lab thingy
 
+<<<<<<< HEAD
 This is Ryans changes
+=======
+This is Ryans changes
+
+I like lamps
+
+this is my second update
+
+TONI
+>>>>>>> 56fa74f2201fea74f6014ca2f196827639fea241
